@@ -1,0 +1,6 @@
+C:\Users\Garritt Glasby\source\repos\KeyValueIndexer\bin\Debug\KeyValueIndexer.exe.config
+C:\Users\Garritt Glasby\source\repos\KeyValueIndexer\bin\Debug\KeyValueIndexer.exe
+C:\Users\Garritt Glasby\source\repos\KeyValueIndexer\bin\Debug\KeyValueIndexer.pdb
+C:\Users\Garritt Glasby\source\repos\KeyValueIndexer\obj\Debug\KeyValueIndexer.csprojAssemblyReference.cache
+C:\Users\Garritt Glasby\source\repos\KeyValueIndexer\obj\Debug\KeyValueIndexer.exe
+C:\Users\Garritt Glasby\source\repos\KeyValueIndexer\obj\Debug\KeyValueIndexer.pdb
